@@ -1,0 +1,20 @@
+.text{
+    -fx-text-fill: #2196f3;
+}
+#dp{
+    -fx-background-radius: 200pt;
+
+}
+
+#devName{
+    -fx-text-fill: #2196f3;
+    -fx-font-size: 36pt;
+
+}
+#tagLine{
+    -fx-font-size: 18pt;
+}
+
+.institute{
+    -fx-font-size: 12pt;
+}

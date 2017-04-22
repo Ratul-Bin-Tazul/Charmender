@@ -1,0 +1,77 @@
+
+.label{
+    -fx-background-color: #eee;
+    -fx-start-margin: 20pt;
+    -fx-end-margin: 10pt;
+    -fx-font-size: 12pt;
+    -fx-padding: 5pt;
+    -fx-text-alignment: center;
+
+}
+.label-user{
+    -fx-background-color: #2196f9;
+    -fx-background-radius: 4 0 4 4pt;
+    -fx-min-width: 15pt;
+    -fx-text-fill: white;
+    -fx-font-size: 12pt;
+    -fx-start-margin: 10pt;
+    -fx-end-margin: 10pt;
+    -fx-padding: 5pt;
+}
+.sendBtn{
+    -fx-background-color: #2196f3;
+    -fx-text-fill: #ffffff;
+    -fx-padding: 6 20 6 20 pt;
+
+}
+
+.bottom-section{
+    -fx-effect: innershadow(gaussian, black, 10, 0, 0, 0);
+}
+
+.username-input{
+    -fx-pref-width: 400pt;
+    -fx-border-radius: 100pt;
+}
+
+.heading{
+    -fx-font-size: 16pt;
+    -fx-font-weight: bold;
+    -fx-background-color: #dddddd;
+}
+.voiceBtn{
+
+    -fx-background-radius: 200pt;
+    -fx-effect: innershadow(gaussian, black, 10, 0, 0, 0);
+
+
+}
+
+.splash-box{
+    -fx-font-size: 48pt;
+    -fx-background-color: #ffffff;
+}
+
+.drawerVBox{
+    -fx-alignment: top-center;
+    -fx-pref-width: 200;
+
+    -fx-pref-height: 350;
+}
+.drawer-btn{
+    -fx-pref-width: 210;
+    -fx-padding: 5 0 5 0;
+    -fx-font-size: 10pt;
+    -fx-background-color: #dddddd;
+}
+
+.drawer-btn:hover{
+    -fx-font-weight: bold;
+    -fx-background-color: #2196f3;
+    -fx-text-fill: #ffffff;
+}
+
+.exitText{
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+}

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.14.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jdbc/sqlite-jdbc-3.14.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jfoenix.jar!/" />
+      <root url="file://$PROJECT_DIR$/libs/jdbc" />
+      <root url="file://$PROJECT_DIR$/libs/JFeonix" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/jdbc/mysql-connector-java-5.1.41/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs/jdbc" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JFeonix" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: java -cp .:C:/Users/SAMSUNG/IdeaProjects/ChatBot/out/artif
+ acts/ChatBot_jar/ChatBot.jar:C:/Users/SAMSUNG/Desktop/free-tts/FreeTT
+ S.jar com.main.method.Class
+Main-Class: sample.Main
+
